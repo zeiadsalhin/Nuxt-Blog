@@ -2,7 +2,7 @@
 
 </script>
 <template>
-    <button class="py-2 px-4 bg-white rouned-xl border my-2">
+    <button class="py-2 px-4 bg-white rounded-xl border my-2">
         <slot></slot>
     </button>
 </template>

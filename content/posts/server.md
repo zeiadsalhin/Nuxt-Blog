@@ -1,0 +1,12 @@
+---
+title: "Server rendering"
+date:  2023-12
+draft: false
+tags: ["nuxt", "programming", "server"]
+thumbnail: "/img/server.png"
+slug: "server"
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie porta massa, ut sagittis mi dignissim vel. Ut maximus pellentesque molestie. In eget orci pulvinar, eleifend orci sed, maximus urna. Morbi gravida, dolor nec porttitor aliquet, sapien tellus interdum justo, non rhoncus erat leo at magna. Cras convallis convallis metus, in accumsan ex luctus vitae. Maecenas sit amet massa id libero luctus sodales vitae quis elit. Pellentesque euismod dolor eget aliquet porta. Nulla vitae nisi eget augue ultrices pretium et vel enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie porta massa, ut sagittis mi dignissim vel. Ut maximus pellentesque molestie. In eget orci pulvinar, eleifend orci sed, maximus urna. Morbi gravida, dolor nec porttitor aliquet, sapien tellus interdum justo, non rhoncus erat leo at magna. Cras convallis convallis metus, in accumsan ex luctus vitae. Maecenas sit amet massa id libero luctus sodales vitae quis elit. Pellentesque euismod dolor eget aliquet porta. Nulla vitae nisi eget augue ultrices pretium et vel enim.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie porta massa, ut sagittis mi dignissim vel. Ut maximus pellentesque molestie. In eget orci pulvinar, eleifend orci sed, maximus urna. Morbi gravida, dolor nec porttitor aliquet, sapien tellus interdum justo, non rhoncus erat leo at magna. Cras convallis convallis metus, in accumsan ex luctus vitae. Maecenas sit amet massa id libero luctus sodales vitae quis elit. Pellentesque euismod dolor eget aliquet porta. Nulla vitae nisi eget augue ultrices pretium et vel enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie porta massa, ut sagittis mi dignissim vel. Ut maximus pellentesque molestie. In eget orci pulvinar, eleifend orci sed, maximus urna. Morbi gravida, dolor nec porttitor aliquet, sapien tellus interdum justo, non rhoncus erat leo at magna. Cras convallis convallis metus, in accumsan ex luctus vitae. Maecenas sit amet massa id libero luctus sodales vitae quis elit. Pellentesque euismod dolor eget aliquet porta. Nulla vitae nisi eget augue ultrices pretium et vel enim.
