@@ -15,6 +15,9 @@
                     <div class="date opacity-50">
                         {{ post.date }}
                     </div>
+                    <div v-if="post.tags" class="flex space-x-3 text-sm opacity-80">
+                        <p v-for="tag in post.tags" class="bg-gray-200 p-1 rounded-md">{{ tag }}</p>
+                    </div>
                     <p class="p-2">{{ post.description.slice(0, 200) + "...." }}</p>
                 </div>
             </div>

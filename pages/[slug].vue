@@ -12,7 +12,9 @@ const { slug } = useRoute().params
                     <h1 class="text-4xl font-semibold">{{ doc.title }}</h1>
                     <div class="text-gray-500 text-sm mt-4">{{ doc.date }}</div>
                 </div>
-
+                <div v-if="doc.tags" class="flex justify-center text-sm space-x-3 opacity-80">
+                    <p v-for="tag in doc.tags" class="bg-gray-200 p-1 rounded-md">{{ tag }}</p>
+                </div>
                 <img :src="doc.thumbnail" class="w-1/2 mx-auto h-full object-cover " alt="">
             </header>
 
